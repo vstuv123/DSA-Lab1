@@ -1,1 +1,1 @@
-This line was edited on GitHub main
+This line has both GitHub and local edits merged.
